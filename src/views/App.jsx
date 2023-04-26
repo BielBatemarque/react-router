@@ -1,9 +1,12 @@
 import './App.css';
+import { Menu } from '../components/layout/Menu';
+import { Content } from '../components/layout/Content';
 
 function App() {
   return (
     <div className="App">
-        <h1>componente media</h1>
+      <Menu />
+      <Content />
     </div>
   );
 }
