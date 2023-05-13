@@ -5,6 +5,6 @@ export const About = () => {
           <p>Sobre</p>
       </div>
     );
-  }
+  };
 
   
